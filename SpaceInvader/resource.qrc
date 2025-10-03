@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/photos">
+        <file>Player.png</file>
+        <file>Enemy.png</file>
+        <file>background.png</file>
+        <file>bullet.png</file>
+        <file>Enemy1.png</file>
+        <file>Enemy2.png</file>
+        <file>1.png</file>
+        <file>2.png</file>
+        <file>3.png</file>
+        <file>5.png</file>
+        <file>6.png</file>
+        <file>7.png</file>
+        <file>8.png</file>
+        <file>9.png</file>
+        <file>10.png</file>
+        <file>11.png</file>
+        <file>12.png</file>
+    </qresource>
+</RCC>
